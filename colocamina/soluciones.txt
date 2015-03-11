@@ -1,0 +1,586 @@
+
+ mapa original 
+ 
+ X 2 X X
+ X X X X
+ X 2 X X
+ X X 3 X
+
+ la matriz es valida estas son las soluciones:
+
+
+ solucion 1 
+ 
+ * 2 * *
+ X X X *
+ * 2 * *
+ X X 3 *
+
+
+ solucion 2 
+ 
+ * 2 * *
+ X X X *
+ * 2 X *
+ X * 3 *
+
+
+ solucion 3 
+ 
+ * 2 * *
+ X X X *
+ X 2 * *
+ * X 3 *
+
+
+ solucion 4 
+ 
+ * 2 * *
+ X X X *
+ X 2 * *
+ X * 3 X
+
+
+ solucion 5 
+ 
+ * 2 * *
+ X X X *
+ X 2 * X
+ X * 3 *
+
+
+ solucion 6 
+ 
+ * 2 * *
+ X X X *
+ X 2 X *
+ * * 3 *
+
+
+ solucion 7 
+ 
+ * 2 * *
+ X X X X
+ * 2 * *
+ X X 3 *
+
+
+ solucion 8 
+ 
+ * 2 * *
+ X X X X
+ * 2 X *
+ X * 3 *
+
+
+ solucion 9 
+ 
+ * 2 * *
+ X X X X
+ X 2 * *
+ * X 3 *
+
+
+ solucion 10 
+ 
+ * 2 * *
+ X X X X
+ X 2 * *
+ X * 3 X
+
+
+ solucion 11 
+ 
+ * 2 * *
+ X X X X
+ X 2 * X
+ X * 3 *
+
+
+ solucion 12 
+ 
+ * 2 * *
+ X X X X
+ X 2 X *
+ * * 3 *
+
+
+ solucion 13 
+ 
+ * 2 * X
+ X X X *
+ * 2 * *
+ X X 3 *
+
+
+ solucion 14 
+ 
+ * 2 * X
+ X X X *
+ * 2 X *
+ X * 3 *
+
+
+ solucion 15 
+ 
+ * 2 * X
+ X X X *
+ X 2 * *
+ * X 3 *
+
+
+ solucion 16 
+ 
+ * 2 * X
+ X X X *
+ X 2 * *
+ X * 3 X
+
+
+ solucion 17 
+ 
+ * 2 * X
+ X X X *
+ X 2 * X
+ X * 3 *
+
+
+ solucion 18 
+ 
+ * 2 * X
+ X X X *
+ X 2 X *
+ * * 3 *
+
+
+ solucion 19 
+ 
+ * 2 * X
+ X X X X
+ * 2 * *
+ X X 3 *
+
+
+ solucion 20 
+ 
+ * 2 * X
+ X X X X
+ * 2 X *
+ X * 3 *
+
+
+ solucion 21 
+ 
+ * 2 * X
+ X X X X
+ X 2 * *
+ * X 3 *
+
+
+ solucion 22 
+ 
+ * 2 * X
+ X X X X
+ X 2 * *
+ X * 3 X
+
+
+ solucion 23 
+ 
+ * 2 * X
+ X X X X
+ X 2 * X
+ X * 3 *
+
+
+ solucion 24 
+ 
+ * 2 * X
+ X X X X
+ X 2 X *
+ * * 3 *
+
+
+ solucion 25 
+ 
+ * 2 X *
+ * X X *
+ X 2 * *
+ X X 3 *
+
+
+ solucion 26 
+ 
+ * 2 X *
+ * X X *
+ X 2 X *
+ X * 3 *
+
+
+ solucion 27 
+ 
+ * 2 X *
+ * X X X
+ X 2 * *
+ X X 3 *
+
+
+ solucion 28 
+ 
+ * 2 X *
+ * X X X
+ X 2 X *
+ X * 3 *
+
+
+ solucion 29 
+ 
+ * 2 X *
+ X * X *
+ X 2 * *
+ X X 3 *
+
+
+ solucion 30 
+ 
+ * 2 X *
+ X * X *
+ X 2 X *
+ X * 3 *
+
+
+ solucion 31 
+ 
+ * 2 X *
+ X * X X
+ X 2 * *
+ X X 3 *
+
+
+ solucion 32 
+ 
+ * 2 X *
+ X * X X
+ X 2 X *
+ X * 3 *
+
+
+ solucion 33 
+ 
+ * 2 X *
+ X X * *
+ X 2 * *
+ X X 3 *
+
+
+ solucion 34 
+ 
+ * 2 X *
+ X X * *
+ X 2 X *
+ X * 3 *
+
+
+ solucion 35 
+ 
+ * 2 X *
+ X X * X
+ X 2 * *
+ X X 3 *
+
+
+ solucion 36 
+ 
+ * 2 X *
+ X X * X
+ X 2 X *
+ X * 3 *
+
+
+ solucion 37 
+ 
+ * 2 X X
+ * X X *
+ X 2 * *
+ X X 3 *
+
+
+ solucion 38 
+ 
+ * 2 X X
+ * X X *
+ X 2 X *
+ X * 3 *
+
+
+ solucion 39 
+ 
+ * 2 X X
+ * X X X
+ X 2 * *
+ X X 3 *
+
+
+ solucion 40 
+ 
+ * 2 X X
+ * X X X
+ X 2 X *
+ X * 3 *
+
+
+ solucion 41 
+ 
+ * 2 X X
+ X * X *
+ X 2 * *
+ X X 3 *
+
+
+ solucion 42 
+ 
+ * 2 X X
+ X * X *
+ X 2 X *
+ X * 3 *
+
+
+ solucion 43 
+ 
+ * 2 X X
+ X * X X
+ X 2 * *
+ X X 3 *
+
+
+ solucion 44 
+ 
+ * 2 X X
+ X * X X
+ X 2 X *
+ X * 3 *
+
+
+ solucion 45 
+ 
+ * 2 X X
+ X X * *
+ X 2 * *
+ X X 3 *
+
+
+ solucion 46 
+ 
+ * 2 X X
+ X X * *
+ X 2 X *
+ X * 3 *
+
+
+ solucion 47 
+ 
+ * 2 X X
+ X X * X
+ X 2 * *
+ X X 3 *
+
+
+ solucion 48 
+ 
+ * 2 X X
+ X X * X
+ X 2 X *
+ X * 3 *
+
+
+ solucion 49 
+ 
+ X 2 * *
+ * X X *
+ X 2 * *
+ X X 3 *
+
+
+ solucion 50 
+ 
+ X 2 * *
+ * X X *
+ X 2 X *
+ X * 3 *
+
+
+ solucion 51 
+ 
+ X 2 * *
+ * X X X
+ X 2 * *
+ X X 3 *
+
+
+ solucion 52 
+ 
+ X 2 * *
+ * X X X
+ X 2 X *
+ X * 3 *
+
+
+ solucion 53 
+ 
+ X 2 * *
+ X * X *
+ X 2 * *
+ X X 3 *
+
+
+ solucion 54 
+ 
+ X 2 * *
+ X * X *
+ X 2 X *
+ X * 3 *
+
+
+ solucion 55 
+ 
+ X 2 * *
+ X * X X
+ X 2 * *
+ X X 3 *
+
+
+ solucion 56 
+ 
+ X 2 * *
+ X * X X
+ X 2 X *
+ X * 3 *
+
+
+ solucion 57 
+ 
+ X 2 * *
+ X X * *
+ X 2 * *
+ X X 3 *
+
+
+ solucion 58 
+ 
+ X 2 * *
+ X X * *
+ X 2 X *
+ X * 3 *
+
+
+ solucion 59 
+ 
+ X 2 * *
+ X X * X
+ X 2 * *
+ X X 3 *
+
+
+ solucion 60 
+ 
+ X 2 * *
+ X X * X
+ X 2 X *
+ X * 3 *
+
+
+ solucion 61 
+ 
+ X 2 * X
+ * X X *
+ X 2 * *
+ X X 3 *
+
+
+ solucion 62 
+ 
+ X 2 * X
+ * X X *
+ X 2 X *
+ X * 3 *
+
+
+ solucion 63 
+ 
+ X 2 * X
+ * X X X
+ X 2 * *
+ X X 3 *
+
+
+ solucion 64 
+ 
+ X 2 * X
+ * X X X
+ X 2 X *
+ X * 3 *
+
+
+ solucion 65 
+ 
+ X 2 * X
+ X * X *
+ X 2 * *
+ X X 3 *
+
+
+ solucion 66 
+ 
+ X 2 * X
+ X * X *
+ X 2 X *
+ X * 3 *
+
+
+ solucion 67 
+ 
+ X 2 * X
+ X * X X
+ X 2 * *
+ X X 3 *
+
+
+ solucion 68 
+ 
+ X 2 * X
+ X * X X
+ X 2 X *
+ X * 3 *
+
+
+ solucion 69 
+ 
+ X 2 * X
+ X X * *
+ X 2 * *
+ X X 3 *
+
+
+ solucion 70 
+ 
+ X 2 * X
+ X X * *
+ X 2 X *
+ X * 3 *
+
+
+ solucion 71 
+ 
+ X 2 * X
+ X X * X
+ X 2 * *
+ X X 3 *
+
+
+ solucion 72 
+ 
+ X 2 * X
+ X X * X
+ X 2 X *
+ X * 3 *
+
